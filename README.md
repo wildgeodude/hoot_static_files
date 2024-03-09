@@ -22,9 +22,7 @@ Beyond your changes, it'd be useful to add some context.
 
 Let's use an example where I want to add `https://example.com/symptom-checker` to the symptom checker file.
 
-In my code changes I would add `https://example.com/symptom-checker/*` to the symptom checker file.
-
-Then in my pull request description I would also provide a description detailing that the although main website is a general website about health and wellness, it's any page under the `/symptom-checker` path that we want to block access to.
+In my code changes I would add `https://example.com/symptom-checker/*` to the symptom checker file. Then in my pull request description I would also provide some notes detailing that the although main website is a general website about health and wellness, it's any page under the `/symptom-checker` path that we want to block access to.
 
 ## How to raise an issue
 Simply go to issues on this repository and submit a new issue. Please go into as much detail as possible.

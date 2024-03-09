@@ -18,7 +18,13 @@ If you are here to to add items to the `symptom_checkers.json` file, please foll
 Pull requests for anything other than changes to `symptom_checkers.json` will be ignored and closed currently.
 
 ### What makes a good pull request?
-Beyond your changes, it'd be useful to add some context. For example, if, as a contributor, I was submitting a change to add `https://example.com/symptom-checker` to the symptom checker file, I might also provide a description detailing that the main website is a general website about health and wellness. I might also consider adding that we don't want to completely block access to this site, but instead all pages under the `/symptom-checker` path. Therefore in my code changes I would add `https://example.com/symptom-checker/*`.
+Beyond your changes, it'd be useful to add some context.
+
+Let's use an example where I want to add `https://example.com/symptom-checker` to the symptom checker file.
+
+In my code changes I would add `https://example.com/symptom-checker/*` to the symptom checker file.
+
+Then in my pull request description I would also provide a description detailing that the although main website is a general website about health and wellness, it's any page under the `/symptom-checker` path that we want to block access to.
 
 ## How to raise an issue
 Simply go to issues on this repository and submit a new issue. Please go into as much detail as possible.

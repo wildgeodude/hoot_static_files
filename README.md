@@ -7,7 +7,7 @@ Hoot is a relatively simple browser extension.
 
 It works a little bit like a website blocker. However in this case you the user have no control over which websites are blocked. The assumption is that if you've installed Hoot, you want all of this to be taken care of!
 
-If you've got Hoot installed, when you navigate to a webpage the extension will use (this list)[https://hoothq.com/symptom_checkers.json] of symptom checkers to work out whether to stop you in your tracks and prompt you to turn back.
+If you've got Hoot installed, when you navigate to a webpage the extension will use [this list](https://hoothq.com/symptom_checkers.json) of symptom checkers to work out whether to stop you in your tracks and prompt you to turn back.
 
 ## How to contribute
 If you are here to to add items to the `symptom_checkers.json` file, please follow the below steps:

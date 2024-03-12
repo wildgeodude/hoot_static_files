@@ -44,7 +44,14 @@ h3 {
   font-family: "Urbanist", sans-serif;
   font-weight: 500;
   font-size: 20px;
+}
+
+.content p {
   line-height: 30px;
+}
+
+.content ol {
+  line-height: 32px;
 }
 
 .content a, a:visited {
